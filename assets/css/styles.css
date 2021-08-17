@@ -31,7 +31,7 @@
     background: #53b32e;
     display: flex;
     justify-content: center;
-    background-image: url(./assets/img/rectangulo.png);
+    background-image: url(../img/rectangulo.png);
 }
 
 .img__logo{
@@ -184,7 +184,7 @@
 
 @media screen and (min-width: 768px){
     .container__imgAndBg{
-        background-image: url(./assets/img/rectangulo2.png);
+        background-image: url(../img/rectangulo2.png);
     }
     .img__logo{
         width: 50%;
